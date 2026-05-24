@@ -1,36 +1,89 @@
-# Hi 👋, I'm Sampath Kumar Poujula
+<h1 align="center">🚀 Sampath Kumar Poujula</h1>
 
 <h3 align="center">
-Senior .NET Full Stack Engineer | Enterprise AI & SDLC Automation Engineer
+Enterprise AI Engineer | Senior .NET Full Stack Engineer | AI-Driven SDLC Automation Architect
 </h3>
 
 <p align="center">
-Building AI-Powered Enterprise Applications with .NET, Azure, Angular & Generative AI
+Building scalable enterprise platforms using .NET, Azure, Angular, Generative AI, RAG Systems & AI Agents
+</p>
+
+<p align="center">
+Specialized in Enterprise AI Automation • Azure OpenAI • Semantic Kernel • DevOps AI • Multi-Agent Workflows
+</p>
+
+---
+
+<p align="center">
+<img src="https://img.shields.io/badge/Enterprise_AI-Architect-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/.NET-Full_Stack-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Azure-AI_Engineer-0078D4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI-SDLC_Automation-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Angular-Expert-DD0031?style=for-the-badge" />
 </p>
 
 ---
 
 # 🚀 About Me
 
-* 🔭 Senior Software Engineer with 7+ years of experience in enterprise application development
-* 💡 Specialized in ASP.NET Core, Angular, Azure Integrations, Azure DevOps & Microservices
-* 🤖 Currently building Enterprise AI solutions using:
+- 🔭 Senior Software Engineer with 8+ years of enterprise application development experience
+- 💡 Specialized in ASP.NET Core, Angular, Azure Integrations, Azure DevOps & Enterprise APIs
+- 🤖 Currently building AI-powered enterprise automation systems using:
+  - Azure OpenAI
+  - OpenAI APIs
+  - Semantic Kernel
+  - RAG Systems
+  - AI Agents
+  - AI Workflow Orchestration
+- 🏗️ Strong experience across Airline, Banking, Insurance, Healthcare, and LMS domains
+- ⚡ Passionate about AI-driven SDLC automation, engineering productivity, and enterprise architecture
+- 🌱 Currently focusing on:
+  - Multi-Agent AI Systems
+  - Enterprise RAG Pipelines
+  - AI PR Review Automation
+  - AI Security & Governance
+  - AI Workflow Automation
 
-  * OpenAI
-  * Azure OpenAI
-  * Semantic Kernel
-  * RAG Systems
-  * AI Agents
-  * Enterprise AI Automation
-* 🏗️ Strong experience in healthcare, banking, insurance, airline, and LMS domains
-* ⚡ Passionate about AI-driven SDLC automation, developer productivity, and enterprise architecture
-* 🌱 Currently focusing on:
+---
 
-  * Multi-Agent AI Systems
-  * Enterprise RAG Pipelines
-  * AI PR Review Automation
-  * AI Security & Governance
-  * AI Workflow Orchestration
+# 🧠 What I Build
+
+✔️ AI-Powered Enterprise Applications  
+✔️ AI PR Review & SDLC Automation Systems  
+✔️ Enterprise RAG & Knowledge Platforms  
+✔️ Angular + .NET Enterprise Applications  
+✔️ Azure Cloud Integrated Solutions  
+✔️ AI Workflow Automation Platforms  
+✔️ Multi-Agent AI Systems  
+✔️ Production-Scale APIs & Microservices  
+✔️ Developer Productivity Automation Tools  
+✔️ Enterprise Security & RBAC Systems  
+
+---
+
+# 🚀 Currently Building
+
+- 🤖 AI-Powered Azure DevOps PR Review Platform
+- 🧠 Enterprise RAG-Based Knowledge Assistant
+- ⚙️ AI SDLC Automation Framework
+- 🔍 AI Root Cause Analysis System
+- 🛡️ AI Security & Compliance Review Agent
+- 📊 AI Engineering Productivity Dashboard
+
+---
+
+# 🎯 Specializations
+
+- Enterprise AI Solutions
+- AI-Driven SDLC Automation
+- Azure OpenAI Integrations
+- Semantic Kernel
+- RAG Pipelines
+- AI Agents & Workflow Orchestration
+- Angular Enterprise Applications
+- Azure DevOps Automation
+- Enterprise API Development
+- Production System Architecture
 
 ---
 
@@ -38,28 +91,28 @@ Building AI-Powered Enterprise Applications with .NET, Azure, Angular & Generati
 
 ## Backend & APIs
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Web API](https://img.shields.io/badge/Web_API-FF6B6B?style=for-the-badge)
 
 ## Frontend
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## Cloud & DevOps
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge\&logo=azure-devops\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge\&logo=sonarqube\&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 
 ## AI & Automation
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Semantic Kernel](https://img.shields.io/badge/Semantic_Kernel-512BD4?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG_Systems-4CAF50?style=for-the-badge)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-FF9800?style=for-the-badge)
@@ -72,21 +125,23 @@ Building AI-Powered Enterprise Applications with .NET, Azure, Angular & Generati
 ## 🏢 ValueLabs — Senior Software Engineer
 📍 Hyderabad | Jun 2025 – Present
 
-### Navitaire Booking Engine Integration — Airline Digital Commerce Platform (Client: Flynas Airlines)
+### Navitaire Booking Engine Integration — Flynas Airlines Digital Commerce Platform
 
 Currently working on enterprise airline digital commerce platform development, building full-stack booking engine integrations using Navitaire APIs, Azure cloud services, enterprise monitoring, DevOps automation, and AI-driven engineering productivity initiatives.
 
-### Key Responsibilities
-- Engineering full-stack features for Navitaire booking engine integration
-- Building travel insurance integrations using Navitaire API endpoints and secure JWT authentication
-- Deploying and managing Azure App Services for enterprise airline booking platform
-- Monitoring production applications using NewRelic for real-time issue detection and operational insights
-- Establishing Azure DevOps CI/CD quality gates with SonarQube and Checkmarx security scanning
-- Collaborating with client stakeholders to convert business requirements into technical designs
-- Delivering sprint-level enterprise features in Agile development model
-- Working on AI-powered SDLC automation and engineering productivity improvements
+### Key Enterprise Contributions
+
+- Engineered scalable airline booking integrations using Navitaire APIs and Azure cloud services
+- Built secure JWT-based travel insurance integration workflows
+- Managed Azure App Services deployments for enterprise airline booking platform
+- Implemented production monitoring using NewRelic for operational insights and issue tracking
+- Established Azure DevOps quality gates using SonarQube and Checkmarx automation
+- Collaborated with client stakeholders to convert business requirements into technical solutions
+- Participated in architecture discussions, sprint planning, and production support operations
+- Contributed to AI-driven SDLC automation initiatives and developer productivity improvements
 
 ### Tech Stack
+
 `C#` `ASP.NET MVC` `Web API` `Angular 20` `Azure` `Azure DevOps` `SonarQube` `Checkmarx` `Navitaire APIs` `JWT` `NewRelic`
 
 ---
@@ -98,14 +153,16 @@ Currently working on enterprise airline digital commerce platform development, b
 
 Worked on enterprise-scale LMS platform development with REST APIs, Angular SPA modules, business workflows, validations, and multi-tenant product enhancements.
 
-### Key Responsibilities
+### Key Enterprise Contributions
+
 - Developed scalable RESTful APIs and Angular SPA modules
 - Implemented enterprise assessment workflows and business validations
+- Delivered sprint-based enterprise enhancements using Agile methodology
 - Participated across full SDLC lifecycle from analysis to deployment
-- Delivered sprint-based enterprise features in Agile environment
-- Owned module-level delivery and mentored junior developers
+- Mentored junior developers on coding standards and engineering best practices
 
 ### Tech Stack
+
 `C#` `Web API` `Angular` `Microservices` `SQL Server` `Git`
 
 ---
@@ -115,13 +172,14 @@ Worked on enterprise-scale LMS platform development with REST APIs, Angular SPA 
 
 ### Enterprise LMS Platform
 
-- Developed REST APIs and Angular modules for LMS enterprise product
-- Implemented validations and sprint-level deliverables
-- Worked across SDLC lifecycle and module ownership
-- Supported scalable multi-tenant enterprise architecture
+- Developed enterprise APIs and Angular modules for LMS products
+- Implemented business validations and multi-tenant workflows
+- Worked on scalable backend architecture and enterprise frontend modules
+- Delivered sprint-level enterprise enhancements in Agile environment
 
 ### Tech Stack
-`C#` `Web API` `Angular` `Microservices` `SQL Server`
+
+`ASP.NET Core` `Angular` `SQL Server` `Azure DevOps`
 
 ---
 
@@ -130,14 +188,15 @@ Worked on enterprise-scale LMS platform development with REST APIs, Angular SPA 
 
 ### Banking Customer Information Platform
 
-- Led module-level development and code reviews
+- Led module-level development and enterprise code reviews
 - Built Angular modules, REST APIs, web jobs, and console applications
-- Designed NGRX state management for critical banking workflows
-- Optimized SQL objects and backend processing performance
-- Maintained architectural and coding quality standards
+- Designed NGRX state management for banking workflows
+- Optimized SQL queries and backend processing performance
+- Maintained architecture and coding quality standards
 
 ### Tech Stack
-`Angular` `NGRX` `C#` `Web API` `SQL Server`
+
+`Angular` `NGRX` `ASP.NET Core` `SQL Server`
 
 ---
 
@@ -148,11 +207,12 @@ Worked on enterprise-scale LMS platform development with REST APIs, Angular SPA 
 
 - Developed insurance calculation business modules
 - Automated TFS DevOps deployment pipelines
-- Built responsive UI and SQL stored procedures
+- Built responsive UI components and SQL stored procedures
 - Improved release predictability and deployment efficiency
 
 ### Tech Stack
-`ASP.NET MVC` `C#` `Web API` `SQL Server` `TFS DevOps`
+
+`ASP.NET MVC` `C#` `SQL Server` `TFS DevOps`
 
 ---
 
@@ -167,33 +227,34 @@ Worked on enterprise-scale LMS platform development with REST APIs, Angular SPA 
 - Improved performance using SQL optimization and indexing
 
 ### Tech Stack
+
 `ASP.NET MVC` `Angular` `Web API` `SQL Server`
+
 ---
 
 # 🚀 Enterprise AI & Automation Projects
 
 ## 🤖 Azure DevOps AI PR Reviewer Bot
 
-AI-powered PR review automation system with:
-
-* Multi-runtime architecture
-* Label-gated reviews
-* Delta-aware PR analysis
-* Auto-resolution of AI comment threads
-* Microsoft Teams notifications
-* MCP v2.0 integration with 20+ tools
+AI-powered PR review automation system featuring:
+- Multi-runtime architecture
+- Delta-aware PR analysis
+- Automated AI comment resolution
+- Microsoft Teams notifications
+- Enterprise guideline enforcement
+- AI-powered review recommendations
 
 ### Review Categories
 
-* Security
-* Performance
-* Architecture
-* Reliability
-* Scalability
-* AI/ML
-* Testing
-* API Contracts
-* UX/A11y
+- Security
+- Performance
+- Architecture
+- Reliability
+- Scalability
+- AI/ML
+- Testing
+- API Contracts
+- UX/A11y
 
 ### Tech Stack
 
@@ -201,53 +262,51 @@ AI-powered PR review automation system with:
 
 ---
 
-## 📚 RAG-Based Code Acceptance Engine
+## 📚 Enterprise RAG-Based Knowledge Assistant
 
-Enterprise AI acceptance engine featuring:
-
-* Dynamic RAG pipelines
-* Automatic language detection
-* SonarQube integration
-* Deterministic quality scoring
-* Re-review workflows
-* AI fix recommendations
-
-### Features
-
-* Smart diff analysis
-* Context-aware review
-* Enterprise guideline injection
-* Multi-provider AI support
-
----
-
-## 🛡️ AI Phishing Detection Assistant
-
-AI-powered Outlook Add-in with:
-
-* Real-time phishing detection
-* Threat risk scoring
-* Campaign grouping
-* SQLite threat logging
-* OpenAI-based analysis engine
+Enterprise AI knowledge assistant featuring:
+- Dynamic RAG pipelines
+- Context-aware enterprise search
+- Semantic document retrieval
+- AI-powered recommendations
+- Enterprise knowledge management
 
 ### Tech Stack
 
-`.NET 10` `Angular 21` `OpenAI` `SQLite`
+`ASP.NET Core` `Azure OpenAI` `Semantic Kernel` `Vector Database`
 
 ---
 
-## 🧠 Enterprise AI Learning Kit
+## ⚙️ AI SDLC Automation Platform
 
-Built structured AI engineering roadmap covering:
+Enterprise AI workflow orchestration platform automating software delivery lifecycle processes.
 
-* Prompt Engineering
-* RAG Systems
-* Embeddings
-* AI Agents
-* Tool Calling
-* Evaluation Frameworks
-* Production AI Architecture
+### AI Agents
+
+- Requirement Analysis Agent
+- PR Review Agent
+- QA Validation Agent
+- Security Review Agent
+- Documentation Agent
+- Release Notes Agent
+
+### Features
+
+- AI-powered engineering automation
+- Workflow orchestration
+- Enterprise governance automation
+- Developer productivity enhancement
+
+---
+
+## 🔍 AI Root Cause Analyzer
+
+AI-powered production issue analysis platform for:
+- Log analysis
+- Exception correlation
+- Root cause detection
+- Incident summarization
+- Operational insights
 
 ---
 
@@ -269,40 +328,51 @@ Built structured AI engineering roadmap covering:
 
 # 🏗️ Current Focus Areas
 
-* Enterprise AI Architecture
-* AI-Driven SDLC Automation
-* Multi-Agent Systems
-* RAG Pipelines
-* Azure OpenAI Integrations
-* Semantic Kernel
-* AI Governance
-* Developer Productivity Automation
+- Enterprise AI Architecture
+- AI-Driven SDLC Automation
+- Multi-Agent Systems
+- Azure OpenAI Integrations
+- Semantic Kernel
+- Enterprise RAG Pipelines
+- AI Governance
+- Developer Productivity Automation
 
 ---
 
 # 🎓 Certifications
 
-* Claude Actions Certification — Anthropic
-* Claude 101 Certification — Anthropic
-* Microsoft Certified: Azure Administrator Associate
-* IBM Artificial Intelligence Fundamentals
+- Claude Actions Certification — Anthropic
+- Claude 101 Certification — Anthropic
+- Microsoft Certified: Azure Administrator Associate
+- IBM Artificial Intelligence Fundamentals
 
 ---
 
 # 🏆 Key Achievements
 
-* Built AI-powered Azure DevOps PR review automation platform
-* Developed enterprise RAG-based code acceptance engine
-* Created AI phishing detection Outlook add-in
-* Successfully transitioned from HCL to direct hire at Infor
-* Mentored developers on architecture and engineering best practices
+- Built AI-powered Azure DevOps PR review automation platform
+- Developed enterprise RAG-based knowledge assistant
+- Created AI phishing detection Outlook add-in
+- Successfully transitioned from vendor to direct hire enterprise role
+- Mentored developers on architecture and engineering best practices
+
+---
+
+# 🌍 Open To Opportunities
+
+✅ Remote Opportunities  
+✅ Freelance AI Projects  
+✅ Enterprise Consulting  
+✅ AI Automation Solutions  
+✅ Full Stack Enterprise Development  
+✅ Azure & AI Integration Projects  
 
 ---
 
 # 🌐 Connect With Me
 
-* 💼 LinkedIn: [https://www.linkedin.com/in/sampath-kumar-poujula](https://www.linkedin.com/in/sampath-kumar-poujula)
-* 💻 GitHub: [https://github.com/Sampath-coder-hub](https://github.com/Sampath-coder-hub)
+- 💼 LinkedIn: www.linkedin.com/in/sampath-kumar-poujula
+- 💻 GitHub: https://github.com/Sampath-coder-hub
 
 ---
 
