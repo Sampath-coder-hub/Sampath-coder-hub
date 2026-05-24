@@ -69,74 +69,105 @@ Building AI-Powered Enterprise Applications with .NET, Azure, Angular & Generati
 
 # 💼 Professional Experience
 
-## 🏢 Infor — Senior Software Engineer
+## 🏢 ValueLabs — Senior Software Engineer
+📍 Hyderabad | Jun 2025 – Present
 
-📍 Hyderabad | Feb 2024 – Jun 2025
+### Navitaire Booking Engine Integration — Airline Digital Commerce Platform (Client: Flynas Airlines)
 
-### Enterprise LMS Platform
+Currently working on enterprise airline digital commerce platform development, building full-stack booking engine integrations using Navitaire APIs, Azure cloud services, enterprise monitoring, DevOps automation, and AI-driven engineering productivity initiatives.
 
-* Developed RESTful APIs, Angular SPA modules, and enterprise LMS workflows
-* Delivered multi-tenant assessment modules and business validations
-* Participated across full SDLC lifecycle
-* Mentored junior developers on best practices and architecture patterns
+### Key Responsibilities
+- Engineering full-stack features for Navitaire booking engine integration
+- Building travel insurance integrations using Navitaire API endpoints and secure JWT authentication
+- Deploying and managing Azure App Services for enterprise airline booking platform
+- Monitoring production applications using NewRelic for real-time issue detection and operational insights
+- Establishing Azure DevOps CI/CD quality gates with SonarQube and Checkmarx security scanning
+- Collaborating with client stakeholders to convert business requirements into technical designs
+- Delivering sprint-level enterprise features in Agile development model
+- Working on AI-powered SDLC automation and engineering productivity improvements
 
 ### Tech Stack
+`C#` `ASP.NET MVC` `Web API` `Angular 20` `Azure` `Azure DevOps` `SonarQube` `Checkmarx` `Navitaire APIs` `JWT` `NewRelic`
 
-`C#` `Web API` `Angular` `Microservices` `SQL Server` `Azure DevOps`
+---
+
+## 🏢 Infor — Senior Software Engineer
+📍 Hyderabad | Feb 2024 – Jun 2025
+
+### Enterprise Learning Management System (LMS)
+
+Worked on enterprise-scale LMS platform development with REST APIs, Angular SPA modules, business workflows, validations, and multi-tenant product enhancements.
+
+### Key Responsibilities
+- Developed scalable RESTful APIs and Angular SPA modules
+- Implemented enterprise assessment workflows and business validations
+- Participated across full SDLC lifecycle from analysis to deployment
+- Delivered sprint-based enterprise features in Agile environment
+- Owned module-level delivery and mentored junior developers
+
+### Tech Stack
+`C#` `Web API` `Angular` `Microservices` `SQL Server` `Git`
 
 ---
 
 ## 🏢 HCL Technologies (Client: Infor)
-
 📍 Hyderabad | Oct 2022 – Feb 2024
 
-### LMS Enterprise Product
+### Enterprise LMS Platform
 
-* Designed scalable APIs and Angular modules
-* Implemented agile sprint deliverables and validations
-* Worked on enterprise multi-tenant learning platform
+- Developed REST APIs and Angular modules for LMS enterprise product
+- Implemented validations and sprint-level deliverables
+- Worked across SDLC lifecycle and module ownership
+- Supported scalable multi-tenant enterprise architecture
+
+### Tech Stack
+`C#` `Web API` `Angular` `Microservices` `SQL Server`
 
 ---
 
 ## 🏦 HCL Technologies (Client: CBA)
-
 📍 Hyderabad | Apr 2022 – Oct 2022
 
 ### Banking Customer Information Platform
 
-* Led module-level development and code reviews
-* Built Angular modules, Web APIs, web jobs, and console applications
-* Architected NGRX state management for critical banking workflows
-* Optimized SQL queries and database structures
+- Led module-level development and code reviews
+- Built Angular modules, REST APIs, web jobs, and console applications
+- Designed NGRX state management for critical banking workflows
+- Optimized SQL objects and backend processing performance
+- Maintained architectural and coding quality standards
 
 ### Tech Stack
-
 `Angular` `NGRX` `C#` `Web API` `SQL Server`
 
 ---
 
 ## 🛡️ ValueMomentum
-
 📍 Hyderabad | Mar 2021 – Mar 2022
 
-### Insurance Management Platform
+### Kotak Life Insurance Management Platform
 
-* Developed insurance calculation workflows
-* Automated TFS DevOps deployment pipelines
-* Built responsive UI and backend business modules
+- Developed insurance calculation business modules
+- Automated TFS DevOps deployment pipelines
+- Built responsive UI and SQL stored procedures
+- Improved release predictability and deployment efficiency
+
+### Tech Stack
+`ASP.NET MVC` `C#` `Web API` `SQL Server` `TFS DevOps`
 
 ---
 
 ## 🏥 Promantra Synergy Solutions
-
 📍 Hyderabad | Oct 2018 – Mar 2021
 
-### Healthcare Suite
+### RevvPro / EMAR Healthcare Suite
 
-* Built healthcare authorization workflow systems
-* Developed EMAR and MDS 3.0 modules
-* Optimized performance using indexing and code refactoring
+- Built healthcare authorization workflow systems
+- Developed EMAR and MDS 3.0 clinical modules
+- Maintained 3-tier healthcare architecture applications
+- Improved performance using SQL optimization and indexing
 
+### Tech Stack
+`ASP.NET MVC` `Angular` `Web API` `SQL Server`
 ---
 
 # 🚀 Enterprise AI & Automation Projects
