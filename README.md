@@ -12,7 +12,7 @@ Building AI-Powered Enterprise Applications with .NET, Azure, Angular & Generati
 
 # 🚀 About Me
 
-* 🔭 Senior Software Engineer with 8+ years of experience in enterprise application development
+* 🔭 Senior Software Engineer with 7+ years of experience in enterprise application development
 * 💡 Specialized in ASP.NET Core, Angular, Azure Integrations, Azure DevOps & Microservices
 * 🤖 Currently building Enterprise AI solutions using:
 
